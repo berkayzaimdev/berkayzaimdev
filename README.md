@@ -18,4 +18,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=berkayzaimdev&show_icons=true&theme=merko&locale=en" alt="berkayzaimdev" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=berkayzaimdev&theme=merko" alt="berkayzaimdev" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=berkayzaimdev&theme=tokyonight" alt="berkayzaimdev" /></p>
