@@ -28,3 +28,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=berkayzaimdev&show_icons=true&theme=midnight-purple&locale=en" alt="berkayzaimdev" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=berkayzaimdev&theme=midnight-purple" alt="berkayzaimdev" /></p>
 
+![](https://komarev.com/ghpvc/?username=berkayzaimdev&color=red&style=flat-square)
