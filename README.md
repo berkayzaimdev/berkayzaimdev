@@ -24,7 +24,7 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=berkayzaimdev&show_icons=true&theme=midnight-purple&locale=en&layout=compact" alt="berkayzaimdev" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=berkayzaimdev&show_icons=true&theme=midnight-purple&locale=en" alt="berkayzaimdev" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=berkayzaimdev&show_icons=true&theme=midnight-purple&locale=en" alt="berkayzaimdev" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=berkayzaimdev&theme=midnight-purple" alt="berkayzaimdev" /></p>
 
 ![](https://komarev.com/ghpvc/?username=berkayzaimdev&color=red&style=flat-square)
