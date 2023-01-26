@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Berkay</h1>
 <h3 align="center">A passionate backend developer from Istanbul, Turkey</h3>
 
-- 🎯 I’m currently learning **Java** and **Python**
+- 🎯 I’m currently learning **Spring**
 
 - 📫 How to reach me **berkayzaimdev@gmail.com**
 
