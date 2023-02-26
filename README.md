@@ -24,6 +24,6 @@
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
 <a href="https://spring.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/> </a> </p>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=berkayzaimdev&show_icons=true&theme=midnight-purple&locale=en&layout=compact" alt="berkayzaimdev" /></p>
 </br>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=berkayzaimdev&show_icons=true&theme=midnight-purple&locale=en&layout=compact" alt="berkayzaimdev" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api?username=berkayzaimdev&show_icons=true&theme=midnight-purple&locale=en" alt="berkayzaimdev" /></p>
