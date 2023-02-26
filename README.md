@@ -25,4 +25,5 @@
 <a href="https://spring.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=berkayzaimdev&show_icons=true&theme=midnight-purple&locale=en&layout=compact" alt="berkayzaimdev" /></p>
+</br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=berkayzaimdev&show_icons=true&theme=midnight-purple&locale=en" alt="berkayzaimdev" /></p>
