@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Berkay</h1>
-<h3 align="center">A passionate Backend Developer from Istanbul, Turkey</h3>
+<h3 align="center">A passionate Junior Computer Engineering Student from Istanbul, Turkey</h3>
 
 - 🎯 I’m currently learning **.NET Core** and **React**
 - ⭐ My goal is becoming a Full-Stack Developer.
