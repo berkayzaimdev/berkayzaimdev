@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Berkay</h1>
 <h3 align="center">A passionate Junior Computer Engineering Student from Istanbul, Turkey</h3>
 
-- 🎯 I’m currently learning **.NET Core** and **React**
+- 🎯 I’m currently learning **.NET** and **React**
 - ⭐ My goal is becoming a Full-Stack Developer.
 - 📫 How to reach me **berkayzaimdev@gmail.com**
 
