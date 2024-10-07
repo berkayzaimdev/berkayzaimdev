@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Berkay</h1>
-<h2 align="center">A passionate .NET Developer and Senior Computer Engineering Student from Istanbul, Turkey</h3>
+<h3 align="center">A passionate .NET Developer and Senior Computer Engineering Student from Istanbul, Turkey</h3>
 
 - 🎯 I’m currently learning **Microservices Architecture** and **Kubernetes**
 - ⭐ My goal is becoming a proficient Full-Stack Developer.
