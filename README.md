@@ -59,6 +59,13 @@
 <a href="https://www.elastic.co/elasticsearch" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" alt="elasticsearch" width="37" height="37"/> </a>
 </p>
 
+<h3 align="left">IDE</h3>
+<p align="left">
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="37" height="37"/> </a>
+<a href="https://visualstudio.microsoft.com/vs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-original.svg" alt="visualstudio" width="37" height="37"/> </a>
+<a href="https://www.jetbrains.com/rider/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rider/rider-original.svg" alt="rider" width="37" height="37"/> </a>
+</p>
+
 <h3 align="left">Have Some Knowledge Of</h3>
 <p align="left">
 <a href="https://www.mysql.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="37" height="37"/> </a>
@@ -68,6 +75,7 @@
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="37" height="37"/> </a> 
 <a href="https://spring.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="37" height="37"/> </a>
 <a href="https://www.linuxfoundation.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="37" height="37"/> </a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="37" height="37"/> </a>
 </p>
 
 </br>
