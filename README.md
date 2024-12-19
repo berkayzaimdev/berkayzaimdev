@@ -57,6 +57,7 @@
 <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" alt="apachekafka" width="37" height="37"/> </a>
 <a href="https://www.keycloak.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Keycloak_Logo.png?20200311211229" alt="keycloak" width="37" height="37"/></a>
 <a href="https://www.elastic.co/elasticsearch" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" alt="elasticsearch" width="37" height="37"/> </a>
+<a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kibana/kibana-original.svg" alt="kibana" width="37" height="37"/> </a>
 <a href="https://backstage.io/" target="_blank" rel="noreferrer"> <img src="https://backstage.io/logo_assets/svg/Icon_Gradient.svg" alt="backstage" width="37" height="37"/> </a>
 </p>
 
