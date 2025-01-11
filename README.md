@@ -59,6 +59,7 @@
 <a href="https://www.elastic.co/elasticsearch" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" alt="elasticsearch" width="37" height="37"/> </a>
 <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kibana/kibana-original.svg" alt="kibana" width="37" height="37"/> </a>
 <a href="https://backstage.io/" target="_blank" rel="noreferrer"> <img src="https://backstage.io/logo_assets/svg/Icon_Gradient.svg" alt="backstage" width="37" height="37"/> </a>
+<a href="https://nginx.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="kibana" width="37" height="37"/> </a>
 </p>
 
 <h3 align="left">IDE</h3>
